@@ -16,7 +16,7 @@ With the help of beta testers (users), we were able to test an application for u
 ## Creating a Travel Itinerary Map
 
 
-![WeatherPy_travel_map_hotels png](https://user-images.githubusercontent.com/102122063/168510167-3165e453-0624-421b-91ab-fcc0a0a2b1d0.png)
+![WeatherPy_travel_map png](https://user-images.githubusercontent.com/102122063/168511130-dd10beb6-6763-4e18-aa17-f6fe4d84c01a.png)
 
 **Image 3:** *Vacation Intinerary map with driving directions bewtween four stops in Malaysia, search from May 15, 2022*
 
